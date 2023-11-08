@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+}
+
+
+.masthead {
+    background-image: url(./banner-yellow-toy-duckling-bathing-blue-background-copy-space_271740-5827.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:50px;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.card {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
